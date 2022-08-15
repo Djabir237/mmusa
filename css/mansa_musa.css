@@ -1,0 +1,9 @@
+img {
+  max-width: 100%;
+  height: auto;
+  position: center;
+  display:block;
+}
+body{
+	background-color: grey;
+}

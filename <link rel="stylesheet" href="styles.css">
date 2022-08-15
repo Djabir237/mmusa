@@ -1,0 +1,113 @@
+<link rel="stylesheet" href="styles.css">
+<head>
+   <nav id="navbar" class="nav">
+      <ul class="nav-list">
+        <li>
+          <a href="#welcome-section">About</a>
+        </li>
+        <nav id="navbar" class="nav">
+        <li>
+          <a href="#projects">Work</a>
+        </li>
+        <nav id="navbar" class="nav">
+        <li>
+          <a href="#contact">Contact</a>
+        </li>
+      </ul>
+    </nav>
+  </head>
+  <body>
+    <section id="welcome-section" class="welcome-section">
+      <h1>Hey! I am Djabir</h1>
+      <p>a web developer</p>
+    </section>
+    <section id="projects" class="projects-section">
+      <h2 class="projects-section-header">These are some of my works</h2>
+
+      <div class="projects-grid">
+        <a
+          href="file:///Users/djabirahmad/Downloads/mansamusaaa/html/mansa_musa.html"
+          target="_blank"
+          class="project project-tile"
+        >
+          <img
+            class="project-image"
+            src="https://www.metindogruyol.com/wp-content/uploads/2019/03/Mansa-Musa-7.jpg"
+            alt="project"
+          />
+          <p class="project-title">
+            Mansa Musa The Golden King
+          </p>
+        </a>
+         <div class="projects-grid">
+        <a
+          href="file:///Users/djabirahmad/Downloads/website/base.html"
+          target="_blank"
+          class="project project-tile"
+        >
+          <img
+            class="project-image"
+            src="https://dmih5ui1qqea9.cloudfront.net/logo_234/AhsysBoutique3522_IMG_20220507_230535_346.jpg"
+            alt="project"
+          />
+          <p class="project-title">
+            Handcrafted, home-made Jewelleries
+          </p>
+        </a>
+        </div>
+        <div class="projects-grid">
+        <a
+          href="file:///Users/djabirahmad/Downloads/career.html"
+          target="_blank"
+          class="project project-tile"
+        >
+          <img
+            class="project-image"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JJCOE_vq5Iy8w0M0pNW_oZhRLNgXMlUeHA&usqp=CAU"
+            alt="project"
+          />
+          <p class="project-title">
+            The Ideal Career Survey Form
+          </p>
+        </a>
+        </div>
+        <div class="projects-grid">
+        <a
+          href="file:///Users/djabirahmad/Downloads/build-a-technical-documentation-page.html#Lineage_and_accession_to_the_throne"
+          target="_blank"
+          class="project project-tile"
+        >
+          <img
+            class="project-image"
+            src="https://cdn.britannica.com/81/140881-050-19B7672F/Musa-I-of-Mali-Great-Mosque-Timbuktu-1327.jpg"
+            alt="project"
+          />
+          <p class="project-title">
+            Mansa Muusa's Life Story
+          </p>
+        </a>
+        </div>
+         <section id="contact" class="contact-section">
+      <div class="contact-section-header">
+        <h2>Reach me through...</h2>
+        <p>How do you like your brunch?</p>
+      </div>
+      <div class="contact-links">
+    
+        <a
+          id="profile-link"
+          href="https://github.com/Djabir237/Djabir237/blob/main/README.md"
+          target="_blank"
+          class="btn contact-details"
+          ><i class="fab fa-github"></i> GitHub</a
+        >
+        <a
+          href="https://twitter.com/Djabir_Ahmad?t=riprv9lBilqVszN3Y8WJIw&s=09"_blank"
+          class="btn contact-details"
+          ><i class="twitter"></i> Twitter</a>
+        <a href="tel:+905392534878" class="btn contact-details">         <iclass="fasfa-mobile-alt"></i> Call me</a>
+      </div>
+      <a href="email:djabir.ahmadou.2013@gmail.com" class="btn contact-details"> </i> Email me</a>
+      </div>
+    </section>
+    </body>
